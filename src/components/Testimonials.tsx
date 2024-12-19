@@ -7,15 +7,46 @@ const testimonials = [
     text: "Shaun is the most thoughtful person I've ever met. His attention to detail and caring nature are unmatched!",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80"
   },
+    {
+    name: "Amie",
+    text: "Shaun is an all-round great guy. We got to know him through family connectins and he was immediately easy to get along with thanks to his laid-back personality and multi-faceted interests. I am confident his authenticity will make him a great partner.",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/ffceb0_gqz6ti.png"
+  },
+    {
+    name: "Andrew",
+    text: "Shaun is loyal and always puts others first. This translates to love life.",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/abcbd5_pmjshj.png"
+  },
   {
     name: "Emily R.",
     text: "Not only is he incredibly charming, but his sense of humor will keep you laughing all day long.",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80"
   },
+       {
+    name: "Tim",
+    text: "Shaun is a fair man and he has a reputation for always paying back any debts. He owes me sixty dollars.",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/Screen_Shot_2024-12-20_at_9.53.14_am_aevbjk.png"
+  },
+    {
+    name: "Daniel F.",
+    text: "Shaun is a hero - not because he wears a cape to bed - but because he has chosen to purse what he fears most: his potential.",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734599097/DF_zxgqkg.png"
+  },
   {
     name: "Jessica M.",
     text: "A true gentleman with a heart of gold. Shaun knows how to make anyone feel special.",
     image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80"
+  }
+
+    {
+    name: "Pete",
+    text: "Wait, is this DateShaun.com actually a real thing? You really want me to list reasons why chicks should date him?",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734599096/PK_hpz3pc.png"
+  },
+  {
+    name: "Suj",
+    text: "I've known Shaun for close to fifteen years, and his willingness to listen, learn and challenge himself is special. It isn't often that someone is as curious, caring, and intrigued by all life has to offer. Having Shaun as a friend adds to my world.",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734597068/Suj_fb_v6o7d3.jpg"
   }
 ];
 
