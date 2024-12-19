@@ -36,7 +36,7 @@ const testimonials = [
     name: "Jessica M.",
     text: "A true gentleman with a heart of gold. Shaun knows how to make anyone feel special.",
     image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80"
-  }
+  },
 
     {
     name: "Pete",
