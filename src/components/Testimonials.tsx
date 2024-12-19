@@ -9,7 +9,7 @@ const testimonials = [
   },
     {
     name: "Amie",
-    text: "Shaun is an all-round great guy. We got to know him through family connectins and he was immediately easy to get along with thanks to his laid-back personality and multi-faceted interests. I am confident his authenticity will make him a great partner.",
+    text: "Shaun is an all-round great guy. We got to know him through family connections and he was immediately easy to get along with thanks to his laid-back personality and multi-faceted interests. I am confident his authenticity will make him a great partner.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/ffceb0_gqz6ti.png"
   },
     {
@@ -29,7 +29,7 @@ const testimonials = [
   },
     {
     name: "Daniel F.",
-    text: "Shaun is a hero - not because he wears a cape to bed - but because he has chosen to purse what he fears most: his potential.",
+    text: "Shaun is a hero - not because he wears a cape to bed - but because he has chosen to pursue what he fears most: his potential.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734599097/DF_zxgqkg.png"
   },
   {
