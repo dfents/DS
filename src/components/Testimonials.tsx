@@ -12,25 +12,25 @@ const testimonials = [
     text: "Shaun is an all-round great guy. We got to know him through family connections and he was immediately easy to get along with thanks to his laid-back personality and multi-faceted interests. I am confident his authenticity will make him a great partner.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/ffceb0_gqz6ti.png"
   },
+   {
+    name: "Emily R.",
+    text: "Not only is he incredibly charming, but his sense of humor will keep you laughing all day long.",
+    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80"
+  },
     {
     name: "Andrew",
     text: "Shaun is loyal and always puts others first. This translates to love life.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/abcbd5_pmjshj.png"
   },
-  {
-    name: "Emily R.",
-    text: "Not only is he incredibly charming, but his sense of humor will keep you laughing all day long.",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80"
+    {
+    name: "Daniel F.",
+    text: "Shaun is a hero - not because he wears a cape - but because he has chosen to pursue what he fears most: his potential.",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734599097/DF_zxgqkg.png"
   },
        {
     name: "Tim",
     text: "Shaun is a fair man and he has a reputation for always paying back any debts. He owes me sixty dollars.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/Screen_Shot_2024-12-20_at_9.53.14_am_aevbjk.png"
-  },
-    {
-    name: "Daniel F.",
-    text: "Shaun is a hero - not because he wears a cape to bed - but because he has chosen to pursue what he fears most: his potential.",
-    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734599097/DF_zxgqkg.png"
   },
   {
     name: "Jessica M.",
