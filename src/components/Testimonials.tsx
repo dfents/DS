@@ -32,16 +32,15 @@ const testimonials = [
     text: "Shaun is a fair man and he has a reputation for always paying back any debts. He owes me sixty dollars.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/Screen_Shot_2024-12-20_at_9.53.14_am_aevbjk.png"
   },
+      {
+    name: "Pete",
+    text: "Wait, is this DateShaun.com actually a real thing? You really want me to list reasons why chicks should date him?",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734599096/PK_hpz3pc.png"
+  },
   {
     name: "KiP",
     text: "I've never met Shaun, though I've heard great things about him. I can't work out why we've not been introduced to each other yet.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650667/Screen_Shot_2024-12-20_at_9.52.54_am_ulv4ua.png"
-  },
-
-    {
-    name: "Pete",
-    text: "Wait, is this DateShaun.com actually a real thing? You really want me to list reasons why chicks should date him?",
-    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734599096/PK_hpz3pc.png"
   },
   {
     name: "Suj",
