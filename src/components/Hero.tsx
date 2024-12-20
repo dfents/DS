@@ -9,7 +9,7 @@ export function Hero({ onPlayClick }: { onPlayClick: () => void }) {
         <img
           src="https://res.cloudinary.com/dae1ybs5i/image/upload/v1733612713/shaun_ic19mw.jpg"
           alt="Shaun smiling warmly at the camera"
-          className="w-full h-full object-cover object-top"
+          className="w-full h-full object-cover object-center"
         />
       </div>
       
