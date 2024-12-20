@@ -33,9 +33,9 @@ const testimonials = [
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650668/Screen_Shot_2024-12-20_at_9.53.14_am_aevbjk.png"
   },
   {
-    name: "Jessica M.",
-    text: "A true gentleman with a heart of gold. Shaun knows how to make anyone feel special.",
-    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80"
+    name: "KiP",
+    text: "I've never met Shaun, though I've heard great things about him. I can't work out why we've not been introduced to each other yet.",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734650667/Screen_Shot_2024-12-20_at_9.52.54_am_ulv4ua.png"
   },
 
     {
