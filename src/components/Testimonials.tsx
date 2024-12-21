@@ -34,7 +34,7 @@ const testimonials = [
   },
       {
     name: "Pete",
-    text: "Wait, is this DateShaun.com actually a real thing? You really want me to list reasons why chicks should date him?",
+    text: "Wait, is this DateShaun.com actually a real thing? You really want me to list reasons why chicks should date him?<br><br>Shaun - he has money, has taste, all that he's missing is you.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734599096/PK_hpz3pc.png"
   },
   {
@@ -45,6 +45,11 @@ const testimonials = [
   {
     name: "Suj",
     text: "I've known Shaun for close to fifteen years, and his willingness to listen, learn and challenge himself is special. It isn't often that someone is as curious, caring, and intrigued by all life has to offer. Having Shaun as a friend adds to my world.",
+    image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734597068/Suj_fb_v6o7d3.jpg"
+  },
+  {
+    name: "Leon",
+    text: "A warm, thoughtful and friendly guy. Always open for a chat and a good time.",
     image: "https://res.cloudinary.com/dae1ybs5i/image/upload/v1734597068/Suj_fb_v6o7d3.jpg"
   }
 ];
