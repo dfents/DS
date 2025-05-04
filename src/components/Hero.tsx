@@ -14,6 +14,19 @@ export function Hero({ onPlayClick }: { onPlayClick: () => void }) {
       </div>
       
       <div className="relative z-20 flex flex-col justify-end min-h-screen pb-16 px-4">
+
+
+        <div className="bg-yellow-100 text-gray-900 p-6 rounded-lg shadow-lg mb-6 max-w-3xl mx-auto text-center">
+          <p className="text-lg sm:text-xl leading-relaxed">
+            This might seem odd, but nothing amazing ever came from trying to stay away from odd.
+            In the spirit of being open and novel, we've created a platform to invite people to make contact with our friend Shaun.
+            Take a chance, invest in opportunity, and based on us rating him, consider making contact to "Date Shaun".
+            <br /><br />
+            Signed, Shaun's friends (we're listed below 😉)
+          </p>
+        </div>
+        
+        
         <div className="text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Heart className="w-8 h-8 text-rose-500 animate-pulse" />
